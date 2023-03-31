@@ -18,10 +18,6 @@ import LogIn from './pages/logIn/LogIn';
 import SignUp from './pages/signUp/SignUp';
 import Loading from './pages/load/Loading';
 
-// interface Props { 
-//   navbar:boolean
-// }
-
 
 function App() {
 
